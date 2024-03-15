@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 bursts = []
 n = int(input("Enter the number of processes: "))
 for i in range(n):
